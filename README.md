@@ -15,3 +15,13 @@
    - `Stateless` and `Stateful`
 
 #### [SyntheticEvent](https://reactjs.org/docs/events.html#supported-events)
+
+#### [Working with Lists and Conditionals](https://drive.google.com/open?id=1Jas5yAeOhYs9l9LKugP9AFfGY9PBqFnU)
+
+#### [Enabling CSS Modules](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/t/lecture/12001122?start=1)
+ - [`npm run eject`](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
+ - https://medium.com/nulogy/how-to-use-css-modules-with-create-react-app-9e44bec2b5c2
+ 
+#### Debugging React Apps
+ - Error Boundaries: https://reactjs.org/docs/error-boundaries.html
+ - Chrome Devtool Debugging: https://developers.google.com/web/tools/chrome-devtools/javascript/
