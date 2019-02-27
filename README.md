@@ -25,3 +25,4 @@
 #### Debugging React Apps
  - Error Boundaries: https://reactjs.org/docs/error-boundaries.html
  - Chrome Devtool Debugging: https://developers.google.com/web/tools/chrome-devtools/javascript/
+#### [Component Update Lifecycle](https://drive.google.com/open?id=1FQhZqPzZ79byOlKtQFuY4cfa5nWNWe7M)
