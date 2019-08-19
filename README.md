@@ -43,3 +43,5 @@ this.setState(prevState, props) => {
 ```
 
 #### [Router](https://css-tricks.com/react-router-4)
+
+#### Layout & Template in React
