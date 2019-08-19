@@ -5,6 +5,9 @@
 - Create React project `create-react-app react-the-complete-guide`
 - Run project `npm start`
 
+#### Other way to install React
+- Gulp + NodeJS + ReactJS + Babel (Updating..)
+
 ---
 
 #### [Props & State](https://drive.google.com/open?id=1lh-xYl5Wn2aJ9oqqHXRJ4xLnHBDCk5WQ)
@@ -39,4 +42,4 @@ this.setState(prevState, props) => {
 }
 ```
 
-#### Router
+#### [Router](https://css-tricks.com/react-router-4)
