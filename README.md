@@ -44,4 +44,11 @@ this.setState(prevState, props) => {
 
 #### [Router](https://css-tricks.com/react-router-4)
 
+#### Redux
+- [Basic logger](https://redux-saga.js.org/docs/advanced/FutureActions.html)
+
+#### Redux-saga
+
+
 #### Layout & Template in React
+
